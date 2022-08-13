@@ -1,0 +1,3 @@
+Hello world!
+Hello The Odin Project!
+The freeCodeCamp, hear I come...
